@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: da40c53afd682e04b8e119eab843a648
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - UI: {instanceID: 0}
+  - Stage1: {instanceID: 0}
+  - Stage2A: {instanceID: 0}
+  - Stage3A: {instanceID: 0}
+  - Stage4A: {instanceID: 0}
+  - Stage2B: {instanceID: 0}
+  - Stage3B: {instanceID: 0}
+  - Stage4B: {instanceID: 0}
+  - Stage5B: {instanceID: 0}
+  - TitleScreen: {instanceID: 0}
+  - HealthText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
